@@ -15,16 +15,12 @@
 ![Screenshot (49)](https://github.com/snehasoni100/ChatApp/assets/75270720/0c95c1c4-17a1-4361-9e65-9a3065ec704f)
 ### Create Group Chat
 ###### You can create a group chat by searching their names and adding them. You can also update the group chat name. Only admins can add and remove users.
-
 ![Screenshot (50)](https://github.com/snehasoni100/ChatApp/assets/75270720/fa9579c4-0c8d-4962-a946-7d2a98070431)
-
 ![Screenshot (51)](https://github.com/snehasoni100/ChatApp/assets/75270720/b181af29-153c-4ff6-8255-2310aef71622)
-
-
 ![Screenshot (55)](https://github.com/snehasoni100/ChatApp/assets/75270720/55f27b58-704a-4c30-97d4-32dd70e64677)
+![Screenshot (55)](https://github.com/snehasoni100/ChatApp/assets/75270720/4e0335d4-7134-456b-93b5-57220166ec61)
 ### Chats Page
 ###### You can also see the recent messages in the chats section.
 ![Screenshot (52)](https://github.com/snehasoni100/ChatApp/assets/75270720/c2f34694-63c6-4e67-8e00-5380f6d3a497)
 ### Typing Indicator 
-
 ![Screenshot (53)](https://github.com/snehasoni100/ChatApp/assets/75270720/a5c6a77e-a148-4e78-82bb-6ecb771bf191)
